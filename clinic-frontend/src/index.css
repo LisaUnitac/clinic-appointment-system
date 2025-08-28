@@ -1,0 +1,27 @@
+
+@import "tailwindcss";
+/* Add these to your CSS file or style section */
+.bg-blue-50 {
+  background-color: #fff;
+}
+.bg-purple-50 {
+  background-color: #fff;
+}
+.comment-connector {
+  position: absolute;
+  left: 1.25rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #fff;
+}
+.comment-connector-dot {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background-color: #fff;
+  transform: translateY(-50%);
+}
